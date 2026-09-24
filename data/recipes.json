@@ -974,7 +974,7 @@
           }
         ],
         "baseStrength": 1783,
-        "imageSrc": "./assets/images/dessert/fluffy-sweet-potatoes.png"
+        "imageSrc": "./assets/images/desserts/fluffy-sweet-potatoes.png"
       },
       {
         "name": "\"Steadfast\" Ginger Cookies",
@@ -997,7 +997,7 @@
           }
         ],
         "baseStrength": 4921,
-        "imageSrc": "./assets/images/dessert/steadfast-ginger-cookies.png"
+        "imageSrc": "./assets/images/desserts/steadfast-ginger-cookies.png"
       },
       {
         "name": "Fancy Apple Juice",
@@ -1008,7 +1008,7 @@
           }
         ],
         "baseStrength": 763,
-        "imageSrc": "./assets/images/dessert/fancy-apple-juice.png"
+        "imageSrc": "./assets/images/desserts/fancy-apple-juice.png"
       },
       {
         "name": "Craft Soda Pop",
@@ -1019,7 +1019,7 @@
           }
         ],
         "baseStrength": 964,
-        "imageSrc": "./assets/images/dessert/craft-soda-pop.png"
+        "imageSrc": "./assets/images/desserts/craft-soda-pop.png"
       },
       {
         "name": "\"Ember\" Ginger Tea",
@@ -1034,7 +1034,7 @@
           }
         ],
         "baseStrength": 1788,
-        "imageSrc": "./assets/images/dessert/ember-ginger-tea.png"
+        "imageSrc": "./assets/images/desserts/ember-ginger-tea.png"
       },
       {
         "name": "Jigglypuff's Fruity Flan",
@@ -1057,7 +1057,7 @@
           }
         ],
         "baseStrength": 7594,
-        "imageSrc": "./assets/images/dessert/jigglypuffs-fruity-flan.png"
+        "imageSrc": "./assets/images/desserts/jigglypuff%27s-fruity-flan.png"
       },
       {
         "name": "\"Lovely Kiss\" Smoothie",
@@ -1080,7 +1080,7 @@
           }
         ],
         "baseStrength": 4734,
-        "imageSrc": "./assets/images/dessert/lovely-kiss-smoothie.png"
+        "imageSrc": "./assets/images/desserts/lovely-kiss-smoothie.png"
       },
       {
         "name": "\"Lucky Chant\" Apple Pie",
@@ -1095,7 +1095,7 @@
           }
         ],
         "baseStrength": 1634,
-        "imageSrc": "./assets/images/dessert/lucky-chant-apple-pie.png"
+        "imageSrc": "./assets/images/desserts/lucky-chant-apple-pie.png"
       },
       {
         "name": "Neroli's Restorative Tea",
@@ -1114,7 +1114,7 @@
           }
         ],
         "baseStrength": 5065,
-        "imageSrc": "./assets/images/dessert/nerolis-restorative-tea.png"
+        "imageSrc": "./assets/images/desserts/neroli%27s-restorative-tea.png"
       },
       {
         "name": "\"Sweet Scent\" Chocolate Cake",
@@ -1133,7 +1133,7 @@
           }
         ],
         "baseStrength": 3280,
-        "imageSrc": "./assets/images/dessert/sweet-scent-chocolate-cake.png"
+        "imageSrc": "./assets/images/desserts/sweet-scent-chocolate-cake.png"
       },
       {
         "name": "Warm Moomoo Milk",
@@ -1144,7 +1144,7 @@
           }
         ],
         "baseStrength": 727,
-        "imageSrc": "./assets/images/dessert/warm-moomoo-milk.png"
+        "imageSrc": "./assets/images/desserts/warm-moomoo-milk.png"
       },
       {
         "name": "\"Cloud Nine\" Soy Cake",
@@ -1159,7 +1159,7 @@
           }
         ],
         "baseStrength": 1798,
-        "imageSrc": "./assets/images/dessert/cloud-nine-soy-cake.png"
+        "imageSrc": "./assets/images/desserts/cloud-nine-soy-cake.png"
       },
       {
         "name": "\"Hustle\" Protein Smoothie",
@@ -1174,7 +1174,7 @@
           }
         ],
         "baseStrength": 3168,
-        "imageSrc": "./assets/images/dessert/hustle-protein-smoothie.png"
+        "imageSrc": "./assets/images/desserts/hustle-protein-smoothie.png"
       },
       {
         "name": "\"Stalwart\" Vegetable Juice",
@@ -1189,7 +1189,7 @@
           }
         ],
         "baseStrength": 1798,
-        "imageSrc": "./assets/images/dessert/stalwart-vegetable-juice.png"
+        "imageSrc": "./assets/images/desserts/stalwart-vegetable-juice.png"
       },
       {
         "name": "Big Malasada",
@@ -1208,7 +1208,7 @@
           }
         ],
         "baseStrength": 2927,
-        "imageSrc": "./assets/images/dessert/big-malasada.png"
+        "imageSrc": "./assets/images/desserts/big-malasada.png"
       },
       {
         "name": "\"Huge Power\" Soy Donuts",
@@ -1227,7 +1227,7 @@
           }
         ],
         "baseStrength": 5547,
-        "imageSrc": "./assets/images/dessert/huge-power-soy-donuts.png"
+        "imageSrc": "./assets/images/desserts/huge-power-soy-donuts.png"
       },
       {
         "name": "\"Explosion\" Popcorn",
@@ -1246,7 +1246,7 @@
           }
         ],
         "baseStrength": 6048,
-        "imageSrc": "./assets/images/dessert/explosion-popcorn.png"
+        "imageSrc": "./assets/images/desserts/explosion-popcorn.png"
       },
       {
         "name": "\"Teatime\" Corn Scones",
@@ -1269,7 +1269,7 @@
           }
         ],
         "baseStrength": 10925,
-        "imageSrc": "./assets/images/dessert/teatime-corn-scones.png"
+        "imageSrc": "./assets/images/desserts/teatime-corn-scones.png"
       },
       {
         "name": "\"Petal Dance\" Chocolate Tart",
@@ -1284,7 +1284,7 @@
           }
         ],
         "baseStrength": 3314,
-        "imageSrc": "./assets/images/dessert/petal-dance-chocolate-tart.png"
+        "imageSrc": "./assets/images/desserts/petal-dance-chocolate-tart.png"
       },
       {
         "name": "\"Flower Gift\" Macarons",
@@ -1307,7 +1307,7 @@
           }
         ],
         "baseStrength": 13834,
-        "imageSrc": "./assets/images/dessert/flower-gift-macarons.png"
+        "imageSrc": "./assets/images/desserts/flower-gift-macarons.png"
       },
       {
         "name": "\"Early Bird\" Coffee Jelly",
@@ -1326,7 +1326,7 @@
           }
         ],
         "baseStrength": 6793,
-        "imageSrc": "./assets/images/dessert/early-bird-coffee-jelly.png"
+        "imageSrc": "./assets/images/desserts/early-bird-coffee-jelly.png"
       },
       {
         "name": "\"Zing Zap\" Spiced Cola",
@@ -1349,7 +1349,7 @@
           }
         ],
         "baseStrength": 17494,
-        "imageSrc": "./assets/images/dessert/zing-zap-spiced-cola.png"
+        "imageSrc": "./assets/images/desserts/zing-zap-spiced-cola.png"
       },
       {
         "name": "\"Mold Breaker\" Corn Tiramisu",
@@ -1368,7 +1368,7 @@
           }
         ],
         "baseStrength": 7125,
-        "imageSrc": "./assets/images/dessert/mold-breaker-corn-tiramisu.png"
+        "imageSrc": "./assets/images/desserts/mold-breaker-corn-tiramisu.png"
       },
       {
         "name": "Clodsire Éclair",
@@ -1391,7 +1391,7 @@
           }
         ],
         "baseStrength": 20885,
-        "imageSrc": "./assets/images/dessert/clodsire-clair.png"
+        "imageSrc": "./assets/images/desserts/clodsire-eclair.png"
       },
       {
         "name": "\"Scary Face\" Pancakes",
@@ -1414,7 +1414,7 @@
           }
         ],
         "baseStrength": 24354,
-        "imageSrc": "./assets/images/dessert/scary-face-pancakes.png"
+        "imageSrc": "./assets/images/desserts/scary-face-pancakes.png"
       },
       {
         "name": "\"Leaf Tornado\" Smoothie",
@@ -1433,7 +1433,7 @@
           }
         ],
         "baseStrength": 8165,
-        "imageSrc": "./assets/images/dessert/leaf-tornado-smoothie.png"
+        "imageSrc": "./assets/images/desserts/leaf-tornado-smoothie.png"
       },
       {
         "name": "\"Honey Gather\" Chocolate Waffles",
@@ -1456,7 +1456,7 @@
           }
         ],
         "baseStrength": 25484,
-        "imageSrc": "./assets/images/dessert/honey-gather-chocolate-waffles.png"
+        "imageSrc": "./assets/images/desserts/honey-gather-chocolate-waffles.png"
       }
     ]
   }
